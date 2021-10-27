@@ -1,9 +1,14 @@
-### Hi there 👋
+## Olá. Obrigado por visitar meu perfil. 🤩
+
+### Sou um audiovisual migrando para a area de tecnologia, estudando muito, procurando entender as tecnologias e soluções para me desenvolver pessoalmente e profissionalmente.
 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Nest.js](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
+![Adonis.js](https://img.shields.io/badge/-AdonisJS-05122A?style=flat&logo=adonisjs)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -20,7 +25,7 @@
 
 <br>
 
-## &nbsp;Social Links
+## 👨🏼‍💻 &nbsp;Social Links
 
 <p>
 <a href="https://twitter.com/greglixandrao" target="_blank">
