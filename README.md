@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/greglixandrao/bf4d150718e7092cae92a7085f602bb5/raw/313c10b2531fc32f1d02c8fe1304082ccf515d45/greg-github-card.svg"/>
 
 <!--
 **greglixandrao/greglixandrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
