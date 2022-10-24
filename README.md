@@ -27,9 +27,6 @@
 
 [![gtreviza's 42 stats](https://badge42.vercel.app/api/v2/cl9lzt2fm00160gk4px9lyr6s/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
-[![gtreviza's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9lzt2fm00160gk4px9lyr6s/project/2767810)](https://github.com/JaeSeoKim/badge42)
-
-
 ## 👨🏼‍💻 &nbsp;Social Links
 
 <p>
