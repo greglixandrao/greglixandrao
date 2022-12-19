@@ -2,6 +2,8 @@
 
 ### Sou um audiovisual migrando para a area de tecnologia, estudando muito, procurando entender as tecnologias e soluções para me desenvolver pessoalmente e profissionalmente.
 
+![](https://komarev.com/ghpvc/?username=greglixandrao&style=plastic&color=gray&label=Visitors)
+
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
