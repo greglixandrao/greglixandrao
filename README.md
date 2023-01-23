@@ -27,6 +27,9 @@
 
 <br>
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?greglixandrao=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 👨🏼‍💻 &nbsp;Social Links
 
 <p>
