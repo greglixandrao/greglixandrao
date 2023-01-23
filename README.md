@@ -16,7 +16,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 <br><br>
-## ⚙️ &nbsp;GitHub Analytics
+<!--- ## ⚙️ &nbsp;GitHub Analytics
 
 <p>
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=greglixandrao&show_icons=true&theme=vision-friendly-dark" alt="greglixandrao's stats"/> 
@@ -24,7 +24,7 @@
 <p>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greglixandrao&layout=compact&theme=vision-friendly-dark" alt="greglixandrao's most languages"/>
 </p>
-
+-->
 <br>
 
 ## 👨🏼‍💻 &nbsp;Social Links
