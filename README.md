@@ -24,9 +24,9 @@
 <p>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greglixandrao&layout=compact&theme=vision-friendly-dark" alt="greglixandrao's most languages"/>
 </p>
--->
-<br>
 
+<br>
+-->
 ## 👨🏼‍💻 &nbsp;Social Links
 
 <p>
