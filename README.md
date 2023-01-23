@@ -19,10 +19,10 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p>
-<img width="530em" src="https://github.com/PencilNavigator/readme-stats-URL/api?username=greglixandrao&show_icons=true&theme=vision-friendly-dark" alt="greglixandrao's stats"/> 
+<img width="530em" src="https://readme-stats.jonas-bernard.dev/api?username=greglixandrao&show_icons=true&theme=vision-friendly-dark" alt="greglixandrao's stats"/> 
 </p>
 <p>
-<img width="530em" src="https://github.com/PencilNavigator/readme-stats-URL/api/top-langs/?username=greglixandrao&layout=compact&theme=vision-friendly-dark" alt="greglixandrao's most languages"/>
+<img width="530em" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=greglixandrao&layout=compact&theme=vision-friendly-dark" alt="greglixandrao's most languages"/>
 </p>
 
 <br>
