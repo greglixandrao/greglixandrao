@@ -27,8 +27,6 @@
 
 <br>
 
-[![gtreviza's 42 stats](https://badge42.vercel.app/api/v2/cl9lzt2fm00160gk4px9lyr6s/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
 ## 👨🏼‍💻 &nbsp;Social Links
 
 <p>
