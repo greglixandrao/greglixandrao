@@ -17,7 +17,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 <br><br>
 ## 🌎️ &nbsp;Certificações<br>
-<img src="{https://raw.githubusercontent.com/greglixandrao/greglixandrao/main/aws-certified-cloud-practitioner.png}" />
+<img src="aws-certified-cloud-practitioner.png" />
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -45,8 +45,6 @@
  <img align="center" src="https://img.shields.io/badge/-greglixandrao-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=greglixandrao&layout=wide&show_reply=off&show_retweet=off" />
 
 <!--
 **greglixandrao/greglixandrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
