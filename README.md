@@ -1,6 +1,6 @@
 ## Olá. Obrigado por visitar meu perfil. 🤩
 
-### Sou um audiovisual migrando para a area de tecnologia, estudando muito, procurando entender as tecnologias e soluções para me desenvolver pessoalmente e profissionalmente.
+### Sou um audiovisual migrando para a area de tecnologia, estudando muito, procurando entender as tecnologias e soluções para me desenvolver pessoalmente e profissionalmente.<br>
 
 ![](https://komarev.com/ghpvc/?username=greglixandrao&style=plastic&color=gray&label=Visitors)
 
@@ -16,10 +16,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 <br><br>
+## 🌎️ &nbsp;Certificações<br>
+<img src="{https://raw.githubusercontent.com/greglixandrao/greglixandrao/main/aws-certified-cloud-practitioner.png}" />
+<br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p>
-<img width="530em" src="https://readme-stats.jonas-bernard.dev/api?username=greglixandrao&show_icons=true&theme=vision-friendly-dark" alt="greglixandrao's stats"/> 
+<img width="530em" src="https://readme-stats.jonas-bernard.dev/api?username=greglixandrao&show_icons=true&theme=vision-friendly-dark" alt="greglixandrao's stats"/>
 </p>
 <p>
 <img width="530em" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=greglixandrao&layout=compact&theme=vision-friendly-dark" alt="greglixandrao's most languages"/>
@@ -33,7 +36,7 @@
 
 <p>
 <a href="https://twitter.com/greglixandrao" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-greglixandrao-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-greglixandrao-05122A?style=flat&logo=twitter" alt="twitter"/>
 </a>
 <a href="https://linkedin.com/in/gregorio-lixandrao" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-greglixandrao-05122A?style=flat&logo=linkedin" alt="linkedin"/>
