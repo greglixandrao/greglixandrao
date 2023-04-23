@@ -18,7 +18,7 @@
 <br><br>
 ## 🌎️ &nbsp;Certificações<br>
 <img src="aws-certified-cloud-practitioner.png" />
-<br><br>
+<br>
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p>
