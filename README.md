@@ -1,23 +1,25 @@
-## Olá. Obrigado por visitar meu perfil. 🤩
+## Bem vindo(a). 🤩
 
-### Sou um audiovisual migrando para a area de tecnologia, estudando muito, procurando entender as tecnologias e soluções para me desenvolver pessoalmente e profissionalmente.<br>
+### Curioso e interessado em tecnologia, desde que tive meu 1º computador, entusiasta no estudo de diversas tecnologias e emprego dessas no dia a dia. Estudando, trabalhando e me desenvolvendo. Acredito no uso da tecnologia para melhorar a vida de pessoas e empresas, horizontalizar acessos e gerar oportunidades.
+### Por diversas anos estive na área de audiovisual, onde me trouxe muita experiência em lidar com pessoas, situações diversas e trabalho em equipe. Com oportunidade que me foi ofertada, migrei para gestão em Tecnologia da Informação. Ganhando vivencia, aproximação e experiências com produtos digitais.<br>
 
 ![](https://komarev.com/ghpvc/?username=greglixandrao&style=plastic&color=gray&label=Visitors)
 
 ## 🛠 &nbsp;Tech Stack
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=#FFFFFF)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
-![Adonis.js](https://img.shields.io/badge/-AdonisJS-05122A?style=flat&logo=adonisjs)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellijidea&logoColor=#000000)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 <br><br>
 ## 🌎️ &nbsp;Certificações<br>
-<img src="aws-certified-cloud-practitioner.png" />
+<a href="https://www.credly.com/badges/58b3053a-ae2d-40f1-aff1-5bc3430c2805/public_url" target="_blank"> <img src="aws-certified-cloud-practitioner.png" /> </a>
 <br>
 ## ⚙️ &nbsp;GitHub Analytics
 
