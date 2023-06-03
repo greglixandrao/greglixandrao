@@ -2,7 +2,7 @@
 
 ### Curioso e interessado em tecnologia, desde que tive meu 1º computador, entusiasta no estudo de diversas tecnologias e emprego dessas no dia a dia. Estudando, trabalhando e me desenvolvendo. Acredito no uso da tecnologia para melhorar a vida de pessoas e empresas, horizontalizar acessos e gerar oportunidades.
 ### Por diversas anos estive na área de audiovisual, onde me trouxe muita experiência em lidar com pessoas, situações diversas e trabalho em equipe. Com oportunidade que me foi ofertada, migrei para gestão em Tecnologia da Informação. Ganhando vivencia, aproximação e experiências com produtos digitais.<br>
-
+[![wakatime](https://wakatime.com/badge/user/8ac16c13-b2a7-44fc-a293-eeea69d896cb.svg)](https://wakatime.com/@8ac16c13-b2a7-44fc-a293-eeea69d896cb)<br>
 ![](https://komarev.com/ghpvc/?username=greglixandrao&style=plastic&color=gray&label=Visitors)
 
 ## 🛠 &nbsp;Tech Stack
